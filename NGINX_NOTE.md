@@ -37,7 +37,7 @@ nginx -c configfile #指定配置文件
 
 ### 进程结构
 
-![](https://raw.githubusercontent.com/oriys/res/main/infographic-Inside-NGINX_process-model.png)
+![](static/infographic-Inside-NGINX_process-model.png)
 
 参考链接：
 [Inside NGINX: Designed for Performance & Scalability](https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/)
@@ -111,7 +111,7 @@ quit : QUIT
 
 #### 模块体系结构
 
-![](https://raw.githubusercontent.com/oriys/res/main/nginx-modules-arch.png)
+![](static/nginx-modules-architecture.png)
 
 Nginx 的内部结构是由核心部分和一系列的功能模块所组成。这样划分是为了使得每个模块的功能相对简单，便于开发，同时也便于对系统进行功能扩展。为了便于描述，下文中我们将使用 Nginx core 来称呼 Nginx 的核心功能部分。
 Nginx 提供了 Web 服务器的基础功能，同时提供了 Web 服务反向代理，Email 服务反向代理功能。Nginx core实现了底层的通讯协议，为其他模块和 Nginx 进程构建了基本的运行时环境，并且构建了其他各模块的协作基础。除此之外，或者说大部分与协议相关的，或者应用相关的功能都是在这些模块中所实现的。
@@ -173,6 +173,6 @@ zib库的存放路径,gzi模块会用到
 
 ### Nginx配置文件结构
 
-![](https://raw.githubusercontent.com/oriys/res/main/2016-08-12_57ad79e78a017.png)
+![](static/nginx-config-file-structure.png)
 
 
