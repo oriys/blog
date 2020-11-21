@@ -14,6 +14,8 @@
 
 * [[八股文]JVM](https://github.com/oriys/blog/blob/master/JVM.md)
 
+* [[八股文]JAVA](https://github.com/oriys/blog/blob/master/JAVA.md)
+
 * [[八股文]LOCK](https://github.com/oriys/blog/blob/master/LOCK.md)
 
 * [[八股文]MULTITHREAD](https://github.com/oriys/blog/blob/master/MULTITHREAD.md)
