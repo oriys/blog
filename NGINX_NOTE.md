@@ -141,33 +141,43 @@ Nginx 的模块根据其功能基本上可以分为以下几种类型：
 ### 常用编译参数
 
 **—prefix**
+
 指定安装的目录
 
 **—user**
+
 运行 ngInX的 worker子进程的属主
 
 **—group**
+
 运行 nginx的 worker子进程的属组
 
 **—pid-path**
+
 存放进程运行pid文件的路径
 
 **—conf-path**
+
 配置文件 nginx. conf的存放路径
 
 **—error-log-path**
+
 错误日志 errorlog的存放路径
 
 **—http-log-path**
+
 访问日志accesslog的存放路径
 
 **—with- pcre**
+
 pcre库的存放路径,正则表达式会用到
 
 **—with-zlib**
+
 zib库的存放路径,gzi模块会用到
 
 参考链接：
+
 [Installation and Compile-Time Options | NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/installoptions/)
 
 
