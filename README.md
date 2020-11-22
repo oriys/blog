@@ -4,6 +4,8 @@
 
 * [[笔记]LINUX同步机制](https://github.com/oriys/blog/blob/master/LINUX_SYNC.md)
 
+* [[笔记]System Performance: Enterprise and Cloud 2nd](https://github.com/oriys/blog/blob/master/SYSTEM_PERFORMANCE_ENTERPISE_AND_CLOUD_NOTE.md)
+
 ## 算法 
 
 * [[算法]剑指Offer](https://github.com/oriys/blog/blob/master/LCOF.md)
