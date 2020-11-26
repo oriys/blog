@@ -23,3 +23,7 @@
 * [[八股文]LOCK](https://github.com/oriys/blog/blob/master/LOCK.md)
 
 * [[八股文]MULTITHREAD](https://github.com/oriys/blog/blob/master/COCURRENCY.md)
+
+* [[八股文]DISTRIBUTED_SYSTEM](https://github.com/oriys/blog/blob/master/DISTRIBUTED_SYSTEM.md) 
+
+* [[八股文]NETWORK](https://github.com/oriys/blog/blob/master/NETWORK.md) 

@@ -33,3 +33,8 @@
 > A thread that has exited is in this state.
 > 
 > A thread can be in only one state at a given point in time. These states are virtual machine states which do not reflect any operating system thread states.
+
+3. **ThreadLocal** 是什么，如何使用
+
+4. 快速失败 (fail-fast) 和安全失败 (fail-safe) 的区别是什么
+
