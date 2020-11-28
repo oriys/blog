@@ -10,6 +10,8 @@
 
 * [[笔记]CSAPP](https://github.com/oriys/blog/blob/master/CSAPP.md)
 
+* [[笔记]APUE](https://github.com/oriys/blog/blob/master/APUE.md)
+
 ## 算法 
 
 * [[算法]剑指Offer](https://github.com/oriys/blog/blob/master/LCOF.md)
