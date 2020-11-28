@@ -8,6 +8,8 @@
 
 * [[笔记]深入理解Java虚拟机](https://github.com/oriys/blog/blob/master/UNDERSTAND_THE_JVM.md)
 
+* [[笔记]CSAPP](https://github.com/oriys/blog/blob/master/CSAPP.md)
+
 ## 算法 
 
 * [[算法]剑指Offer](https://github.com/oriys/blog/blob/master/LCOF.md)
