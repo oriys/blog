@@ -12,6 +12,8 @@
 
 * [[笔记]APUE](https://github.com/oriys/blog/blob/master/APUE.md)
 
+* [[笔记]VIM实用技巧](https://github.com/oriys/blog/blob/master/PRACTICAL_VIM.md)
+
 ## 算法 
 
 * [[算法]剑指Offer](https://github.com/oriys/blog/blob/master/LCOF.md)
