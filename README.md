@@ -14,6 +14,8 @@
 
 * [[笔记]VIM实用技巧](https://github.com/oriys/blog/blob/master/PRACTICAL_VIM.md)
 
+* [[笔记]精通Git](https://github.com/oriys/blog/blob/master/GIT_PRO_V2.md)
+
 ## 算法 
 
 * [[算法]剑指Offer](https://github.com/oriys/blog/blob/master/LCOF.md)
