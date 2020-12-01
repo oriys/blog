@@ -65,7 +65,7 @@
 
 #### ISO C 限制
 
-ISO C 定义的限制都列在头文件<limits.h>中。这些限制在一个给定系统中不会改变。
+ISO C 定义的限制都列在头文件\<limits.h\>中。这些限制在一个给定系统中不会改变。
 
 #### POSIX 限制
 
@@ -75,7 +75,7 @@ ISO C 定义的限制都列在头文件<limits.h>中。这些限制在一个给�
 - 运行时可以增加的值：CHARCLASS_NAME_MAX，COLL_WEIGHTS_MAX，LINE_MAX，NGROUPS_MAX，RE_DUP_MAX
 - 运行时不变值
 - 路径名可变值
-- 这些限制和常量，有些在<limits.h>中，其余则按照具体条件定义。
+- 这些限制和常量，有些在\<limits.h\>中，其余则按照具体条件定义。
 
 #### XSI 限制
 
