@@ -8,7 +8,7 @@ class ListNode:
 
 
 class Solution:
-    def reversePrint(self, head: ListNode) -\> List[int]:
+    def reversePrint(self, head: ListNode) -> List[int]:
         ans = []
 
         def loop(nums: List[int], node: ListNode):
